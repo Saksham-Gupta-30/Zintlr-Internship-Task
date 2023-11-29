@@ -1,4 +1,4 @@
-import { Search, Refresh, MicrosoftExcel, Filter, CSV, DropDown } from "../assets"
+import { Search, Refresh, MicrosoftExcel, Filter, CSV, Dropdown } from "../assets"
 import { data } from "../utils/data"
 
 const ManageConsumer = () => {
@@ -35,32 +35,32 @@ const ManageConsumer = () => {
                             <th className="text-sm font-semibold">
                                 <div className="flex gap-2 items-center">
                                     <div>Assets</div>
-                                    <img src={DropDown} alt="drop-down" />
+                                    <img src={Dropdown} alt="dropdown" />
                                 </div>
                             </th>
                             <th className="text-sm font-semibold">
                                 <div className="flex gap-2 items-center">
                                     <div>Revenue</div>
-                                    <img src={DropDown} alt="drop-down" />
+                                    <img src={Dropdown} alt="drop-down" />
                                 </div>
                             </th>
                             <th className="text-sm font-semibold">
                                 <div className="flex gap-2 items-center">
                                     <div>KYC Status</div>
-                                    <img src={DropDown} alt="drop-down" />
+                                    <img src={Dropdown} alt="drop-down" />
                                 </div>
                             </th>
                             <th className="pl-4 text-sm font-semibold flex items-center justify-start">Facilitator</th>
                             <th className="text-sm font-semibold">
                                 <div className="flex gap-2 items-center">
                                     <div>Zone</div>
-                                    <img src={DropDown} alt="drop-down" />
+                                    <img src={Dropdown} alt="drop-down" />
                                 </div>
                             </th>
                             <th className="text-sm font-semibold">
                                 <div className="flex gap-2 items-center">
                                     <div>Account Type</div>
-                                    <img src={DropDown} alt="drop-down" />
+                                    <img src={Dropdown} alt="drop-down" />
                                 </div>
                             </th>
                             <th className="pl-4 text-sm font-semibold flex items-center justify-start">TPA</th>

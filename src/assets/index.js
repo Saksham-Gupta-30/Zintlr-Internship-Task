@@ -23,7 +23,7 @@ import Refresh from './Refresh.svg'
 import MicrosoftExcel from './MicrosoftExcel.svg'
 import CSV from './CSV.svg'
 import Filter from './Filter.svg'
-import DropDown from './DropDown.svg'
+import Dropdown from './Dropdown.svg'
 import ManageConsumer from './ManageConsumer.svg'
 
 import Logo from './Logo.png'
@@ -59,6 +59,6 @@ export {
     MicrosoftExcel,
     CSV,
     Filter,
-    DropDown,
+    Dropdown,
     ManageConsumer
 }
