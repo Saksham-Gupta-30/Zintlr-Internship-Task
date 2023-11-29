@@ -1,0 +1,24 @@
+/* FILEPATH: /E:/PROJECTS/Zintlr Internship Task/task/src/index.css */
+
+/* BEGIN: abpxx6d04wxr */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Hide the scrollbar */
+::-webkit-scrollbar {
+  width: 0.3em;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
